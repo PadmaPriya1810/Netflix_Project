@@ -88,7 +88,7 @@ public class Movies implements Comparable{
 	{
 		Movies m=(Movies)o;
 		return (this.mname.compareTo(m.mname)); //For Comparing 2 Strings also we can use it
-				//Watch Payilagam Video For MoreUnderstanding
+			
 	}
 
 }
