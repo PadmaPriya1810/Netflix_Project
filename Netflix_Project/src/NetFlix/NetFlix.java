@@ -254,7 +254,7 @@ public void addMovie(Movies m)
 		break;
 		case 10://LOGOUT
 		{
-			System.out.println("Thanks For Watching Netflix!");//Learn Proper Logic
+			System.out.println("Thanks For Watching Netflix!");
 		}
 		break;
 		case 11://EXIT
